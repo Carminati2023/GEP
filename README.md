@@ -15,7 +15,7 @@ Il mio progetto, FakeStrava, è un'applicazione per smartphone ideale per chi vu
 
 --------
 
-Le **funzionalità** sono quelle di:
+**Funzionalità/requisiti dell'applicazione:**
 
 <details>
 <summary>  1. Registrazione degli allenamenti </summary>
@@ -122,6 +122,9 @@ Le **funzionalità** sono quelle di:
 </p>
 </details>
 
+--------
+
+**Casi d'uso:**
 
 
 
