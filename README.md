@@ -7,9 +7,10 @@ Il mio progetto, FakeStrava, è un'applicazione per smartphone ideale per chi vu
 
 **Problemi che risolve:**
 
-1) Archiviazione dei dati di allenamento: FakeStrava consente agli utenti di salvare lo storico dei propri allenamenti. In questo modo viene risolto il problema di tenere traccia dei propri progressi personali.
-2) Condivisione dei dati di allenamento: FakeStrava consente agli utenti di condividere i propri allenamenti con altre persone della community. In questo modo viene risolto il problema della condivisione di dati (tracce dei percorsi, dati prestativi e foto) con conoscenti e amici. 
-3) Motivazione e ispirazione: L'applicazione, permettendo agli utenti di vedere i percorsi e le attività di altri utenti, fornisce una fonte di motivazione e ispirazione per migliorare le proprie prestazioni. Aiuta a risolvere il problema dell'inspirazione e della motivazione nello sport.
+1) Archiviazione dei dati di allenamento: FakeStrava permette agli utenti di salvare il proprio storico di allenamenti, consentendo loro di monitorare i progressi personali.
+2) Condivisione dei dati di allenamento: Gli utenti possono condividere i propri allenamenti con altri membri della community, inclusi tracce dei percorsi, dati prestazionali e foto, facilitando la condivisione con amici e conoscenti.
+3) Motivazione e ispirazione: L'applicazione consente agli utenti di visualizzare i percorsi e le attività di altri utenti, fornendo una fonte di motivazione e ispirazione per migliorare le proprie prestazioni sportive.
+4) Analisi delle prestazioni: FakeStrava offre dettagliate informazioni sulle prestazioni durante l'allenamento, tra cui distanza, tempo, ritmo e altitudine, aiutando gli utenti a monitorare il proprio progresso nel tempo.
 
 Le **funzionalità** sono quelle di:
 - avere un grafico, per ciascuno sport, dei progressi sui propri allenamenti (in km percorsi ad esempio)
