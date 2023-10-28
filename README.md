@@ -356,7 +356,7 @@ Gli utenti possono impostare obiettivi personali per le loro attività e parteci
 **Casi d'uso:**
 
 **1** L'utente, solo dopo aver effettuato l'accesso, avvia la registrazione e al termine la interrompe.
-<img src="http://yuml.me/diagram/scruffy/usecase/(note: figure 1.2{bg:beige}), [App User]-(Login),[Site Maintainer]-(Add User),(Add User)<(Add Company),[Site Maintainer]-(Upload Docs),(Upload Docs)<(Manage Folders),[App User]-(Upload Docs), [App User]-(Full Text Search Docs), (Full Text Search Docs)>(Preview Doc),(Full Text Search Docs)>(Download Docs), [App User]-(Browse Docs), (Browse Docs)>(Preview Doc), (Download Docs), [Site Maintainer]-(Post New Event To The Web Site), [App User]-(View Events)" >
+<img src="http://yuml.me/diagram/scruffy/usecase/(note: figure 1.2{bg:beige}), [Utente]-(Accesso Utente), (Accesso Utente)<(Avviare registrazione allenamento), (Avviare registrazione allenamento)>(Termina registrazione allenamento), [Sistema Strava]-(Calcolo dati allenamento),[Sistema Strava]-(Salvataggio record dei segmenti)",[Sistema Strava]-(Salvataggio dati dell' attività)" >
 
 **2** L'utente dopo aver effettuato l'accesso visualizza i dati degli allenamenti precedenti.
 
