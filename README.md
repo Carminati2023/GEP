@@ -360,21 +360,30 @@ Gli utenti possono impostare obiettivi personali per le loro attività e parteci
 
 **2** L'utente dopo aver effettuato l'accesso visualizza i dati degli allenamenti precedenti.
 <img src="http://yuml.me/diagram/scruffy/usecase/(note: figure 2{bg:beige}), [Utente]-(Accesso Utente), (Accesso Utente)<(Visualizza allenamenti precedenti)" >
-**3** L'utente, solo dopo aver effettuato l'accesso, può vedere la classifica di un certo segmento.
 
-**4** 
+**3** Gli utenti possono registrarsi creando un account personale, il sistema salva le informazioni e invia conferma via email.
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 3{bg:beige}), [Utente]-(Registrazione), [Sistema]-(Salva dati registrazione), [Sistema]-(Invio email conferma registrazione)'>
 
-**5** 
+**4** L'utente tenta di accedere all'applicazione inserendo le credenziali.
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 4{bg:beige}), [Utente]-(Accesso account), [Sistema]-(Verifica credenziali), (Verifica credenziali)<(Credenziali errate), (Verifica credenziali)<(Accesso consentito)'>
 
-**6** 
+**5**  L'utente chiede un ripristino della password. 
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 5{bg:beige}), [Utente]-(Reset Password), (Reset Password) > (Specifica email di riferimento), [Sistema iSki]-(Invio istruzioni per reimpostare password)'>
 
-**7** 
+**6** L'utente tenta l'accesso all'account e in caso di credenziali errate può richiedere di reimpostare la password.
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 6{bg:beige}), [Utente]-(Accesso account), [Utente] - (Reset Password), (Reset Password) > (Specifica Email di riferimento), [Sistema]-(Verifica credenziali), (Verifica credenziali)<(Credenziali errate), (Verifica credenziali)<(Accesso consentito), [Sistema]-(Invio istruzioni per reimpostare password)'>
 
+**7** L'utente dopo aver effettuato l'accesso visualizza il suo profilo utente
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 7{bg:beige}), [Utente] - (Accesso utente), (Accesso utente) < (Visualizzazione profilo)'>
 
+**8** L'utente dopo l'accesso ha la possibilità di modificare le proprie informazioni relative all'account.
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 8{bg:beige}), [Utente] - (Accesso utente), (Accesso utente) < (Modifica profilo)'>
 
+**9** L'utente per poter utilizzare l'applicazione deve accettare il tracciamento GPS.
+<img src="http://yuml.me/diagram/scruffy/usecase/(note: figure 9{bg:beige}), [Utente]-(Autorizzazione GPS), (Autorizzazione GPS) < (Accetta condizione), (Autorizzazione GPS) < (Rifiuta condizione), [Sistema]-(Invio notifica autorizzazione)" >
 
+**10** L'utente loggato attiva la modalità Premium, paga il compenso mensile di attivazione e il pagamento sarà confermato.
+<img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 10{bg:beige}), [Utente] - (Accesso Utente), (Accesso Utente) < (Attiva Modalità Premium), (Attiva Modalità Premium) > (Effettua Pagamento), (Attiva Modalità Premium) > (Aggiungi carta), [Banca] - (Elabora Pagamento), (Elabora Pagamento) > (Invio risultato conferma), [Sistema] - (Attivazione modalità Premium)'>
 
-
-
-
-
+**11** L'utente loggato prova ad attivare la modalità Premium ma il pagamento non va a buon fine.
+ <img src='http://yuml.me/diagram/scruffy/usecase/(note: figure 11{bg:beige}), [Utente] - (Accesso Utente), (Accesso Utente) < (Attiva Modalità Premium), (Attiva Modalità Premium) > (Effettua Pagamento), (Attiva Modalità Premium) > (Aggiungi carta), [Banca] - (Elabora Pagamento), (Elabora Pagamento) > (Errore nel pagamento), [Sistema] - (Invio notifica pagamento non effettuato)'> 
