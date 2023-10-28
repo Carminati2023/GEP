@@ -13,10 +13,151 @@ Il mio progetto, FakeStrava, è un'applicazione per smartphone ideale per chi vu
 4) Analisi delle prestazioni: FakeStrava offre dettagliate informazioni sulle prestazioni durante l'allenamento, tra cui distanza, tempo, ritmo e altitudine, aiutando gli utenti a monitorare il proprio progresso nel tempo.
 
 Le **funzionalità** sono quelle di:
-- avere un grafico, per ciascuno sport, dei progressi sui propri allenamenti (in km percorsi ad esempio)
-- avere la possibilità di impostare obiettivi sui propri allenamenti
-- avere una tabella con il resoconto dell'anno in corso e di tutto lo storico (anche degli anni scorsi)
-- avere la possibilità di impostare e completare sfide (esempio: tot. km a settimana in bici)
-- avere la possibilità di interagire con altri attraverso gruppi dedicati
-- avere dei consigli utili per principianti e avanzati (ad esempio dei pecorsi ecc...)
+
+<details>
+<summary>  1. Registrazione degli allenamenti </summary>
+<p>
+  
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 2. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 3. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 4. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 5. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 6. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 7. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 8. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 9. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 10. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 11. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 12. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 13. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 14. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+<details>
+<summary> 15. </summary>
+<p>
+
+</p>
+</details>
+
+--------
+
+
+
+
+
+
+
+
+
+
+
+
 
