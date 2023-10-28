@@ -355,8 +355,20 @@ Gli utenti possono impostare obiettivi personali per le loro attività e parteci
 
 **Casi d'uso:**
 
+**1** L'utente, solo dopo aver effettuato l'accesso, avvia la registrazione e al termine la interrompe.
+<img id="overlay-image" src="/0cc8dab8.svg" style="padding-top: 0rem; max-width:none; height:auto;">
 
+**2** L'utente dopo aver effettuato l'accesso visualizza i dati degli allenamenti precedenti.
 
+**3** L'utente, solo dopo aver effettuato l'accesso, può vedere la classifica di un certo segmento.
+
+**4** 
+
+**5** 
+
+**6** 
+
+**7** 
 
 
 
