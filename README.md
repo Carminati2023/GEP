@@ -356,10 +356,10 @@ Gli utenti possono impostare obiettivi personali per le loro attività e parteci
 **Casi d'uso:**
 
 **1** L'utente, solo dopo aver effettuato l'accesso, avvia la registrazione e al termine la interrompe.
-<img src="http://yuml.me/diagram/scruffy/usecase/(note: figure 1{bg:beige}), [Utente]-(Accesso Utente), (Accesso Utente)<(Avviare registrazione allenamento), (Avviare registrazione allenamento)>(Termina registrazione allenamento), [Sistema Strava]-(Calcolo dati allenamento),[Sistema Strava]-(Salvataggio record dei segmenti),[Sistema Strava]-(Salvataggio dati dell' attività)">
+<img src="http://yuml.me/diagram/scruffy/usecase/, [Utente]-(Accesso Utente), (Accesso Utente)<(Avviare registrazione allenamento), (Avviare registrazione allenamento)>(Termina registrazione allenamento), [Sistema Strava]-(Calcolo dati allenamento),[Sistema Strava]-(Salvataggio record dei segmenti),[Sistema Strava]-(Salvataggio dati dell' attività)">
 
 **2** L'utente dopo aver effettuato l'accesso visualizza i dati degli allenamenti precedenti.
-<img src="http://yuml.me/diagram/scruffy/usecase/(note: fiure 2{bg:beige}), [Utente]-(Accesso Utente), (Accesso Utente)<(Visualizza allenamenti precedenti)" >
+<img src="http://yuml.me/diagram/scruffy/usecase/, [Utente]-(Accesso Utente), (Accesso Utente)<(Visualizza allenamenti precedenti)" >
 **3** L'utente, solo dopo aver effettuato l'accesso, può vedere la classifica di un certo segmento.
 
 **4** 
